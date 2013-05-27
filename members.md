@@ -105,6 +105,7 @@ Format:
 | Jalal Hobbs | [jalalhobbs](https://github.com/jalalhobbs) | Basic Python and C#, I'd like to contribute to open source projects to advance. |
 | James Brewer | [BrewerHimself](https://github.com/BrewerHimself) ||
 | Jared Trouth | [jaredtrouth](https://github.com/jaredtrouth) ||
+| Jarett Roman | [jarett](https://github.com/jarett) ||
 | Jason Papp | [jspapp](https://github.com/jspapp) ||
 | Jan Frozsak | [bolcselo](https://github.com/bolcselo) |minor all around experience, deciding to become proficient in C++.|
 | Jay Damodaran | [JayNelson](https://github.com/JayNelson) ||
